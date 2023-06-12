@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I am a Junior Fullstack Developer with a strong foundation in visual design. My expertise primarily lies in web design, digital and physical prototyping, and branding. 💾
 
-<img width="1380" alt="Screen Shot 2023-06-05 at 5 11 17 PM" src="https://github.com/JefValenco/jefValenco/assets/119255208/15d1f889-ceaf-4c98-8ec8-a2d7f03f7681">
-![git1](https://github.com/JefValenco/jefValenco/assets/119255208/98629a4a-331c-474d-8095-99b690f86dc5)
+<img width="1380" alt="Screen Shot 2023-06-05 at 5 11 17 PM" src="https://github.com/JefValenco/jefValenco/assets/119255208/98629a4a-331c-474d-8095-99b690f86dc5">
+
