@@ -21,5 +21,5 @@ I am a Junior Fullstack Developer with a strong foundation in visual design. My 
 
 
 
-<img width="1380" alt="Screen Shot 2023-06-05 at 5 11 17 PM" src="[https:/d2b](https://github.com/JefValenco/jefValenco/assets/119255208/be79c6e9-3286-4cea-9fb2-c8f930371e23)">
+<img width="1380" alt="Screen Shot 2023-06-05 at 5 11 17 PM" src="https://github.com/JefValenco/jefValenco/assets/119255208/be79c6e9-3286-4cea-9fb2-c8f930371e23">
 
