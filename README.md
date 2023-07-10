@@ -31,7 +31,7 @@ I am a Fullstack Developer with a strong foundation in visual design.
 
 Take a look at my Portfolio:
 Here i showcase my tech skills and some projects i've worked on:
-[https://jefryvalenco.com/]
+https://jefryvalenco.com/
 
 
 Languages and Tools:
