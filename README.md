@@ -35,3 +35,7 @@ https://jefryvalenco.com/
 
 
 Languages and Tools:
+
+
+<img width="554" alt="Screen Shot 2023-07-10 at 3 21 33 PM" src="https://github.com/JefValenco/jefValenco/assets/119255208/8522da01-e662-4a73-8c5a-ae4f4f1cbded">
+
