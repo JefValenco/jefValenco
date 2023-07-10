@@ -24,6 +24,9 @@ I am a  Fullstack Developer with a strong foundation in visual design. My expert
 <img width="1380" alt="Screen Shot 2023-06-05 at 5 11 17 PM" src="https://github.com/JefValenco/jefValenco/assets/119255208/0cef698c-76b6-42f0-8e99-df0bae505a15">
 
 
+I am a Fullstack Developer with a strong foundation in visual design. 
+
+
 ✉️ Feel free to reach me at : jefryvalenco@gmail.com
 
 Take a look at my Portfolio:
